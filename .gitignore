@@ -1,0 +1,5 @@
+/vendor/
+/.idea/
+*.swp
+.DS_Store
+/dist/
